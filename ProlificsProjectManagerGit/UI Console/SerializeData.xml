@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Project>
+    <projectEmployees>
+      <Employee>
+        <EmployeeId>1000</EmployeeId>
+        <EmployeeFirstName>Sandeep</EmployeeFirstName>
+        <EmployeeLastName>Goud</EmployeeLastName>
+        <Email>San@gmail.com</Email>
+        <MobileNumber>7984651324</MobileNumber>
+        <Address>Hyd</Address>
+        <RoleId>123</RoleId>
+      </Employee>
+    </projectEmployees>
+    <ProjectId>100</ProjectId>
+    <ProjectName>Solar Energy</ProjectName>
+    <StartDate>2022-09-09T00:00:00</StartDate>
+    <EndDate>2023-09-09T00:00:00</EndDate>
+  </Project>
+</ArrayOfProject>
